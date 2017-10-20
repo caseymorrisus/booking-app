@@ -1,0 +1,15 @@
+.section-header th {
+  background: #eee;
+  text-align: left;
+  padding: 10px 15px;
+  text-transform: uppercase;
+  color: #888;
+  font-weight: 500;
+  font-size: 0.9rem;
+  border-bottom: 1px solid #bbb;
+}
+
+.section-empty td {
+  text-align: left;
+  padding: 15px;
+}

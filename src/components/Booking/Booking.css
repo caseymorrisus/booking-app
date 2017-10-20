@@ -1,0 +1,21 @@
+.booking td {
+  vertical-align: top;
+  border-bottom: 1px solid #bbb;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.booking td:first-of-type {
+  width: 110px;
+  text-align: right;
+  padding-right: 25px;
+}
+
+.booking div {
+  margin-bottom: 5px;
+}
+
+.booking div:last-of-type {
+  margin-bottom: 0px;
+}

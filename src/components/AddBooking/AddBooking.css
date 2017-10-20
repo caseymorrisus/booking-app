@@ -1,0 +1,15 @@
+.add-booking {
+  color: #1E88E5;
+  line-height: 50px;
+  margin-left: 30px;
+  cursor: pointer;
+  font-size: 1.25rem;
+}
+
+.date-time-container {
+  /*background: #000;*/
+}
+
+.date-time-input {
+  /*background: #000;*/
+}
